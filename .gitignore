@@ -1,2 +1,5 @@
 # All Excel files
 *.xlsx
+
+# Large models
+*.nc
